@@ -59,7 +59,7 @@ The application provides:
 
 ### Video Demonstration
 
-[Watch Demo Video](./Demo Video.mp4)
+[Watch Demo Video](./PrivateGreenTravelRewards.mp4)
 
 *Video showcasing the complete user flow from connecting wallet to claiming rewards*
 
